@@ -20,7 +20,6 @@ import Exceptions.DuplicateItemException;
 //******************ERRORS********************************
 //Exceptions are thrown by insert if warranted and remove.
 
-//CHanged
 /**
 * Implements a red-black tree.
 * Note that all "matching" is based on the compareTo method.
